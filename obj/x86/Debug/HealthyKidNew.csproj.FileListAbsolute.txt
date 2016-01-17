@@ -1,0 +1,1130 @@
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\App.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AssessDev.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Hearing.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\MainPage.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\viewProfile.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.xr.xml
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.exe
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.pdb
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\resources.pri
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AppxManifest.xml
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.build.appxrecipe
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.i.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.i.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing.g.i.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing.g.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.i.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.i.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xaml
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xaml
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing.xaml
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xaml
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xaml
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xbf
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.exe
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.pdb
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.csproj.GenerateResource.Cache
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml.intermediate
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles.intermediate
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles.intermediate
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles.intermediate
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\x86\Debug\ProjectArchitectures.txt
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\App.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AssessDev.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\MainPage.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\viewProfile.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.xr.xml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.exe
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.pdb
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\resources.pri
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AppxManifest.xml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.build.appxrecipe
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlSaveStateFile.xml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.exe
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.pdb
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.csproj.GenerateResource.Cache
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml.intermediate
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles.intermediate
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles.intermediate
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles.intermediate
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt.intermediate
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\ProjectArchitectures.txt
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3Months.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearingMain.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing46months.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Hearing7to1year.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing1to2years.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing2to3years.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3to4years.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing4to5years.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision1.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\visionMain.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision2.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision3.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision4.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision5.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision6.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision7.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision8.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social1.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social2.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social3.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social4.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social5.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social6.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social7.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social8.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\socialMain.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor1.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor2.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor3.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor4.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor5.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor6.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor7.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motorMain.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.i.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.cs
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xaml
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xbf
+D:\temp\temp\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\App.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AssessDev.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing1to2years.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing2to3years.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3Months.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3to4years.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing46months.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing4to5years.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Hearing7to1year.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearingMain.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\MainPage.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor1.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor2.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor3.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor4.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor5.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor6.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor7.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motorMain.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social1.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social2.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social3.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social4.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social5.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social6.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social7.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social8.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\socialMain.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\viewProfile.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision1.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision2.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision3.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision4.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision5.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision6.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision7.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision8.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\visionMain.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.xr.xml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.exe
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.pdb
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\resources.pri
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AppxManifest.xml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.build.appxrecipe
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlSaveStateFile.xml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.exe
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.pdb
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.csproj.GenerateResource.Cache
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml.intermediate
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles.intermediate
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles.intermediate
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles.intermediate
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt.intermediate
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\ProjectArchitectures.txt
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.g.i.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.g.cs
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.xaml
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.xbf
+D:\temp\temp\b\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Notes1.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\App.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AssessDev.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing1to2years.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing2to3years.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3Months.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3to4years.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing46months.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing4to5years.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Hearing7to1year.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearingMain.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\MainPage.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor1.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor2.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor3.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor4.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor5.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor6.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor7.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motorMain.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Notes1.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social1.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social2.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social3.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social4.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social5.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social6.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social7.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social8.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\socialMain.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\viewProfile.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision1.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision2.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision3.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision4.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision5.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision6.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision7.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision8.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\visionMain.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.xr.xml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.exe
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.pdb
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\resources.pri
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AppxManifest.xml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.build.appxrecipe
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.i.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xaml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xbf
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlSaveStateFile.xml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.exe
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.pdb
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml.intermediate
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles.intermediate
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles.intermediate
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles.intermediate
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt.intermediate
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\temp\temp\b\trans\HealthyKidNew\HealthyKidNew\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\App.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AssessDev.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing1to2years.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing2to3years.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3Months.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3to4years.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing46months.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing4to5years.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Hearing7to1year.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearingMain.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\MainPage.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor1.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor2.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor3.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor4.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor5.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor6.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor7.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motorMain.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Notes1.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social1.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social2.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social3.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social4.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social5.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social6.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social7.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social8.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\socialMain.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\viewProfile.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision1.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision2.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision3.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision4.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision5.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision6.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision7.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision8.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\visionMain.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.xr.xml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.exe
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.pdb
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\resources.pri
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AppxManifest.xml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.build.appxrecipe
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.i.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xaml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xbf
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.exe
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.pdb
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\user\Downloads\HealthyKidNew (3)\HealthyKidNew\HealthyKidNew\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\App.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AssessDev.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing1to2years.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing2to3years.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3Months.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3to4years.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing46months.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing4to5years.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Hearing7to1year.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearingMain.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\MainPage.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor1.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor2.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor3.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor4.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor5.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor6.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor7.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motorMain.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Notes1.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social1.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social2.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social3.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social4.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social5.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social6.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social7.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social8.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\socialMain.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\viewProfile.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision1.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision2.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision3.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision4.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision5.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision6.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision7.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision8.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\visionMain.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.xr.xml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.exe
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.pdb
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\resources.pri
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AppxManifest.xml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.build.appxrecipe
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.i.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xaml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\App.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\AssessDev.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing1to2years.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing2to3years.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3Months.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing3to4years.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing46months.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearing4to5years.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Hearing7to1year.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\hearingMain.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MainPage.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor1.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor2.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor3.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor4.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor5.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor6.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motor7.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\motorMain.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\Notes1.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social1.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social2.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social3.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social4.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social5.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social6.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social7.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\social8.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\socialMain.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\viewProfile.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision1.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision2.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision3.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision4.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision5.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision6.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision7.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\vision8.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\visionMain.xbf
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.exe
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\HealthyKidNew.pdb
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\ProjectArchitectures.txt

@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-FVI22CR</Machine>
+    <WindowsUser>user</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>32f1c3ad-8de6-4bd6-b635-776b4395b25a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.exe">
+      <PackagePath>HealthyKidNew.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\motor.jpg">
+      <PackagePath>Assets\motor.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\option1.jpg">
+      <PackagePath>Assets\option1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\option3.jpg">
+      <PackagePath>Assets\option3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\social.jpg">
+      <PackagePath>Assets\social.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\vision.jpg">
+      <PackagePath>Assets\vision.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\hearing.png">
+      <PackagePath>Assets\hearing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\option2.png">
+      <PackagePath>Assets\option2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\option4.png">
+      <PackagePath>Assets\option4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\option5.png">
+      <PackagePath>Assets\option5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\HealthyKidNew.xr.xml">
+      <PackagePath>HealthyKidNew.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\AssessDev.xbf">
+      <PackagePath>AssessDev.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing1to2years.xbf">
+      <PackagePath>hearing1to2years.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing2to3years.xbf">
+      <PackagePath>hearing2to3years.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3Months.xbf">
+      <PackagePath>hearing3Months.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing3to4years.xbf">
+      <PackagePath>hearing3to4years.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing46months.xbf">
+      <PackagePath>hearing46months.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearing4to5years.xbf">
+      <PackagePath>hearing4to5years.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Hearing7to1year.xbf">
+      <PackagePath>Hearing7to1year.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\hearingMain.xbf">
+      <PackagePath>hearingMain.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor1.xbf">
+      <PackagePath>motor1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor2.xbf">
+      <PackagePath>motor2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor3.xbf">
+      <PackagePath>motor3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor4.xbf">
+      <PackagePath>motor4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor5.xbf">
+      <PackagePath>motor5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor6.xbf">
+      <PackagePath>motor6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motor7.xbf">
+      <PackagePath>motor7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\motorMain.xbf">
+      <PackagePath>motorMain.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\Notes1.xbf">
+      <PackagePath>Notes1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social1.xbf">
+      <PackagePath>social1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social2.xbf">
+      <PackagePath>social2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social3.xbf">
+      <PackagePath>social3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social4.xbf">
+      <PackagePath>social4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social5.xbf">
+      <PackagePath>social5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social6.xbf">
+      <PackagePath>social6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social7.xbf">
+      <PackagePath>social7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\social8.xbf">
+      <PackagePath>social8.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\socialMain.xbf">
+      <PackagePath>socialMain.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\viewProfile.xbf">
+      <PackagePath>viewProfile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision1.xbf">
+      <PackagePath>vision1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision2.xbf">
+      <PackagePath>vision2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision3.xbf">
+      <PackagePath>vision3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision4.xbf">
+      <PackagePath>vision4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision5.xbf">
+      <PackagePath>vision5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision6.xbf">
+      <PackagePath>vision6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision7.xbf">
+      <PackagePath>vision7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\vision8.xbf">
+      <PackagePath>vision8.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\visionMain.xbf">
+      <PackagePath>visionMain.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Google Drive\Visual Studio Work Place\HealthyKidNew\HealthyKidNew\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

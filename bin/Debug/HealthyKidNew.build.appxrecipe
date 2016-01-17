@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ACER2</Machine>
+    <WindowsUser>Pradeep</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>32f1c3ad-8de6-4bd6-b635-776b4395b25a</PackageIdentityName>
+    <IntermediateOutputPath>D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\Debug\HealthyKidNew.exe">
+      <PackagePath>HealthyKidNew.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\motor.jpg">
+      <PackagePath>Assets\motor.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\option1.jpg">
+      <PackagePath>Assets\option1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\option3.jpg">
+      <PackagePath>Assets\option3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\social.jpg">
+      <PackagePath>Assets\social.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\vision.jpg">
+      <PackagePath>Assets\vision.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\hearing.png">
+      <PackagePath>Assets\hearing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\option2.png">
+      <PackagePath>Assets\option2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\option4.png">
+      <PackagePath>Assets\option4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\option5.png">
+      <PackagePath>Assets\option5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\Debug\HealthyKidNew.xr.xml">
+      <PackagePath>HealthyKidNew.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\Debug\AssessDev.xbf">
+      <PackagePath>AssessDev.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\Debug\Hearing.xbf">
+      <PackagePath>Hearing.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Imagine cup project 2016\HealthyKidNew\HealthyKidNew\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
