@@ -109,6 +109,9 @@
     <Compile Include="hearingMain.xaml.cs">
       <DependentUpon>hearingMain.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Isuru\Recording.xaml.cs">
+      <DependentUpon>Recording.xaml</DependentUpon>
+    </Compile>
     <Compile Include="listItem.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -211,7 +214,9 @@
     <Content Include="Assets\BadgeLogo.scale-240.png" />
     <Content Include="Assets\hearing.png" />
     <Content Include="Assets\Logo.scale-240.png" />
+    <Content Include="Assets\mic-icon.png" />
     <Content Include="Assets\motor.jpg" />
+    <Content Include="Assets\Notes-icon.png" />
     <Content Include="Assets\option1.jpg" />
     <Content Include="Assets\option2.png" />
     <Content Include="Assets\option3.jpg" />
@@ -264,6 +269,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="hearingMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Isuru\Recording.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

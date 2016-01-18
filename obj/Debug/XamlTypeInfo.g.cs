@@ -124,19 +124,91 @@ namespace HealthyKidNew.HealthyKidNew_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[5];
+            _typeNameTable = new string[41];
             _typeNameTable[0] = "HealthyKidNew.AssessDev";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "HealthyKidNew.Hearing";
-            _typeNameTable[4] = "HealthyKidNew.MainPage";
+            _typeNameTable[3] = "HealthyKidNew.hearing1to2years";
+            _typeNameTable[4] = "HealthyKidNew.hearing2to3years";
+            _typeNameTable[5] = "HealthyKidNew.hearing3Months";
+            _typeNameTable[6] = "HealthyKidNew.hearing3to4years";
+            _typeNameTable[7] = "HealthyKidNew.hearing46months";
+            _typeNameTable[8] = "HealthyKidNew.hearing4to5years";
+            _typeNameTable[9] = "HealthyKidNew.Hearing7to1year";
+            _typeNameTable[10] = "HealthyKidNew.hearingMain";
+            _typeNameTable[11] = "HealthyKidNew.Isuru.Recording";
+            _typeNameTable[12] = "HealthyKidNew.MainPage";
+            _typeNameTable[13] = "HealthyKidNew.motor1";
+            _typeNameTable[14] = "HealthyKidNew.motor2";
+            _typeNameTable[15] = "HealthyKidNew.motor3";
+            _typeNameTable[16] = "HealthyKidNew.motor4";
+            _typeNameTable[17] = "HealthyKidNew.motor5";
+            _typeNameTable[18] = "HealthyKidNew.motor6";
+            _typeNameTable[19] = "HealthyKidNew.motor7";
+            _typeNameTable[20] = "HealthyKidNew.motorMain";
+            _typeNameTable[21] = "HealthyKidNew.Notes1";
+            _typeNameTable[22] = "HealthyKidNew.social1";
+            _typeNameTable[23] = "HealthyKidNew.social2";
+            _typeNameTable[24] = "HealthyKidNew.social3";
+            _typeNameTable[25] = "HealthyKidNew.social4";
+            _typeNameTable[26] = "HealthyKidNew.social5";
+            _typeNameTable[27] = "HealthyKidNew.social6";
+            _typeNameTable[28] = "HealthyKidNew.social7";
+            _typeNameTable[29] = "HealthyKidNew.social8";
+            _typeNameTable[30] = "HealthyKidNew.socialMain";
+            _typeNameTable[31] = "HealthyKidNew.viewProfile";
+            _typeNameTable[32] = "HealthyKidNew.vision1";
+            _typeNameTable[33] = "HealthyKidNew.vision2";
+            _typeNameTable[34] = "HealthyKidNew.vision3";
+            _typeNameTable[35] = "HealthyKidNew.vision4";
+            _typeNameTable[36] = "HealthyKidNew.vision5";
+            _typeNameTable[37] = "HealthyKidNew.vision6";
+            _typeNameTable[38] = "HealthyKidNew.vision7";
+            _typeNameTable[39] = "HealthyKidNew.vision8";
+            _typeNameTable[40] = "HealthyKidNew.visionMain";
 
-            _typeTable = new global::System.Type[5];
+            _typeTable = new global::System.Type[41];
             _typeTable[0] = typeof(global::HealthyKidNew.AssessDev);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::HealthyKidNew.Hearing);
-            _typeTable[4] = typeof(global::HealthyKidNew.MainPage);
+            _typeTable[3] = typeof(global::HealthyKidNew.hearing1to2years);
+            _typeTable[4] = typeof(global::HealthyKidNew.hearing2to3years);
+            _typeTable[5] = typeof(global::HealthyKidNew.hearing3Months);
+            _typeTable[6] = typeof(global::HealthyKidNew.hearing3to4years);
+            _typeTable[7] = typeof(global::HealthyKidNew.hearing46months);
+            _typeTable[8] = typeof(global::HealthyKidNew.hearing4to5years);
+            _typeTable[9] = typeof(global::HealthyKidNew.Hearing7to1year);
+            _typeTable[10] = typeof(global::HealthyKidNew.hearingMain);
+            _typeTable[11] = typeof(global::HealthyKidNew.Isuru.Recording);
+            _typeTable[12] = typeof(global::HealthyKidNew.MainPage);
+            _typeTable[13] = typeof(global::HealthyKidNew.motor1);
+            _typeTable[14] = typeof(global::HealthyKidNew.motor2);
+            _typeTable[15] = typeof(global::HealthyKidNew.motor3);
+            _typeTable[16] = typeof(global::HealthyKidNew.motor4);
+            _typeTable[17] = typeof(global::HealthyKidNew.motor5);
+            _typeTable[18] = typeof(global::HealthyKidNew.motor6);
+            _typeTable[19] = typeof(global::HealthyKidNew.motor7);
+            _typeTable[20] = typeof(global::HealthyKidNew.motorMain);
+            _typeTable[21] = typeof(global::HealthyKidNew.Notes1);
+            _typeTable[22] = typeof(global::HealthyKidNew.social1);
+            _typeTable[23] = typeof(global::HealthyKidNew.social2);
+            _typeTable[24] = typeof(global::HealthyKidNew.social3);
+            _typeTable[25] = typeof(global::HealthyKidNew.social4);
+            _typeTable[26] = typeof(global::HealthyKidNew.social5);
+            _typeTable[27] = typeof(global::HealthyKidNew.social6);
+            _typeTable[28] = typeof(global::HealthyKidNew.social7);
+            _typeTable[29] = typeof(global::HealthyKidNew.social8);
+            _typeTable[30] = typeof(global::HealthyKidNew.socialMain);
+            _typeTable[31] = typeof(global::HealthyKidNew.viewProfile);
+            _typeTable[32] = typeof(global::HealthyKidNew.vision1);
+            _typeTable[33] = typeof(global::HealthyKidNew.vision2);
+            _typeTable[34] = typeof(global::HealthyKidNew.vision3);
+            _typeTable[35] = typeof(global::HealthyKidNew.vision4);
+            _typeTable[36] = typeof(global::HealthyKidNew.vision5);
+            _typeTable[37] = typeof(global::HealthyKidNew.vision6);
+            _typeTable[38] = typeof(global::HealthyKidNew.vision7);
+            _typeTable[39] = typeof(global::HealthyKidNew.vision8);
+            _typeTable[40] = typeof(global::HealthyKidNew.visionMain);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -172,8 +244,44 @@ namespace HealthyKidNew.HealthyKidNew_XamlTypeInfo
         }
 
         private object Activate_0_AssessDev() { return new global::HealthyKidNew.AssessDev(); }
-        private object Activate_3_Hearing() { return new global::HealthyKidNew.Hearing(); }
-        private object Activate_4_MainPage() { return new global::HealthyKidNew.MainPage(); }
+        private object Activate_3_hearing1to2years() { return new global::HealthyKidNew.hearing1to2years(); }
+        private object Activate_4_hearing2to3years() { return new global::HealthyKidNew.hearing2to3years(); }
+        private object Activate_5_hearing3Months() { return new global::HealthyKidNew.hearing3Months(); }
+        private object Activate_6_hearing3to4years() { return new global::HealthyKidNew.hearing3to4years(); }
+        private object Activate_7_hearing46months() { return new global::HealthyKidNew.hearing46months(); }
+        private object Activate_8_hearing4to5years() { return new global::HealthyKidNew.hearing4to5years(); }
+        private object Activate_9_Hearing7to1year() { return new global::HealthyKidNew.Hearing7to1year(); }
+        private object Activate_10_hearingMain() { return new global::HealthyKidNew.hearingMain(); }
+        private object Activate_11_Recording() { return new global::HealthyKidNew.Isuru.Recording(); }
+        private object Activate_12_MainPage() { return new global::HealthyKidNew.MainPage(); }
+        private object Activate_13_motor1() { return new global::HealthyKidNew.motor1(); }
+        private object Activate_14_motor2() { return new global::HealthyKidNew.motor2(); }
+        private object Activate_15_motor3() { return new global::HealthyKidNew.motor3(); }
+        private object Activate_16_motor4() { return new global::HealthyKidNew.motor4(); }
+        private object Activate_17_motor5() { return new global::HealthyKidNew.motor5(); }
+        private object Activate_18_motor6() { return new global::HealthyKidNew.motor6(); }
+        private object Activate_19_motor7() { return new global::HealthyKidNew.motor7(); }
+        private object Activate_20_motorMain() { return new global::HealthyKidNew.motorMain(); }
+        private object Activate_21_Notes1() { return new global::HealthyKidNew.Notes1(); }
+        private object Activate_22_social1() { return new global::HealthyKidNew.social1(); }
+        private object Activate_23_social2() { return new global::HealthyKidNew.social2(); }
+        private object Activate_24_social3() { return new global::HealthyKidNew.social3(); }
+        private object Activate_25_social4() { return new global::HealthyKidNew.social4(); }
+        private object Activate_26_social5() { return new global::HealthyKidNew.social5(); }
+        private object Activate_27_social6() { return new global::HealthyKidNew.social6(); }
+        private object Activate_28_social7() { return new global::HealthyKidNew.social7(); }
+        private object Activate_29_social8() { return new global::HealthyKidNew.social8(); }
+        private object Activate_30_socialMain() { return new global::HealthyKidNew.socialMain(); }
+        private object Activate_31_viewProfile() { return new global::HealthyKidNew.viewProfile(); }
+        private object Activate_32_vision1() { return new global::HealthyKidNew.vision1(); }
+        private object Activate_33_vision2() { return new global::HealthyKidNew.vision2(); }
+        private object Activate_34_vision3() { return new global::HealthyKidNew.vision3(); }
+        private object Activate_35_vision4() { return new global::HealthyKidNew.vision4(); }
+        private object Activate_36_vision5() { return new global::HealthyKidNew.vision5(); }
+        private object Activate_37_vision6() { return new global::HealthyKidNew.vision6(); }
+        private object Activate_38_vision7() { return new global::HealthyKidNew.vision7(); }
+        private object Activate_39_vision8() { return new global::HealthyKidNew.vision8(); }
+        private object Activate_40_visionMain() { return new global::HealthyKidNew.visionMain(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -200,16 +308,268 @@ namespace HealthyKidNew.HealthyKidNew_XamlTypeInfo
                 xamlType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  HealthyKidNew.Hearing
+            case 3:   //  HealthyKidNew.hearing1to2years
                 userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_3_Hearing;
+                userType.Activator = Activate_3_hearing1to2years;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 4:   //  HealthyKidNew.MainPage
+            case 4:   //  HealthyKidNew.hearing2to3years
                 userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_4_MainPage;
+                userType.Activator = Activate_4_hearing2to3years;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 5:   //  HealthyKidNew.hearing3Months
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_5_hearing3Months;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 6:   //  HealthyKidNew.hearing3to4years
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_6_hearing3to4years;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 7:   //  HealthyKidNew.hearing46months
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_7_hearing46months;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 8:   //  HealthyKidNew.hearing4to5years
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_8_hearing4to5years;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 9:   //  HealthyKidNew.Hearing7to1year
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_9_Hearing7to1year;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 10:   //  HealthyKidNew.hearingMain
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_10_hearingMain;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 11:   //  HealthyKidNew.Isuru.Recording
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_11_Recording;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 12:   //  HealthyKidNew.MainPage
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_12_MainPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 13:   //  HealthyKidNew.motor1
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_13_motor1;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 14:   //  HealthyKidNew.motor2
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_14_motor2;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 15:   //  HealthyKidNew.motor3
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_15_motor3;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 16:   //  HealthyKidNew.motor4
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_16_motor4;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 17:   //  HealthyKidNew.motor5
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_17_motor5;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 18:   //  HealthyKidNew.motor6
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_18_motor6;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 19:   //  HealthyKidNew.motor7
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_19_motor7;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 20:   //  HealthyKidNew.motorMain
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_20_motorMain;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 21:   //  HealthyKidNew.Notes1
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_21_Notes1;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 22:   //  HealthyKidNew.social1
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_22_social1;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 23:   //  HealthyKidNew.social2
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_23_social2;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 24:   //  HealthyKidNew.social3
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_24_social3;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 25:   //  HealthyKidNew.social4
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_25_social4;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 26:   //  HealthyKidNew.social5
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_26_social5;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 27:   //  HealthyKidNew.social6
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_27_social6;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 28:   //  HealthyKidNew.social7
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_28_social7;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 29:   //  HealthyKidNew.social8
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_29_social8;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 30:   //  HealthyKidNew.socialMain
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_30_socialMain;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 31:   //  HealthyKidNew.viewProfile
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_31_viewProfile;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 32:   //  HealthyKidNew.vision1
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_32_vision1;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 33:   //  HealthyKidNew.vision2
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_33_vision2;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 34:   //  HealthyKidNew.vision3
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_34_vision3;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 35:   //  HealthyKidNew.vision4
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_35_vision4;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 36:   //  HealthyKidNew.vision5
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_36_vision5;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 37:   //  HealthyKidNew.vision6
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_37_vision6;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 38:   //  HealthyKidNew.vision7
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_38_vision7;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 39:   //  HealthyKidNew.vision8
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_39_vision8;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 40:   //  HealthyKidNew.visionMain
+                userType = new global::HealthyKidNew.HealthyKidNew_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_40_visionMain;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -547,6 +907,5 @@ namespace HealthyKidNew.HealthyKidNew_XamlTypeInfo
         }
     }
 }
-
 
 

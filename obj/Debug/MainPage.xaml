@@ -13,17 +13,18 @@
             <ImageBrush ImageSource ="/Assets/background.jpg" Stretch="UniformToFill"></ImageBrush>
         </Grid.Background>
         <TextBlock x:Name="MainMenuHeading" HorizontalAlignment="Left" Height="76" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="380" Text="Healthy Kid" FontFamily="Comic Sans MS" FontSize="48" />
-        <TextBlock x:Name="MainMenu" HorizontalAlignment="Left" Height="39" Margin="122,91,0,0" TextWrapping="Wrap" Text="Main Menu" VerticalAlignment="Top" Width="159" FontFamily="Comic Sans MS" FontSize="26.667"/>
+        <TextBlock x:Name="MainMenu" HorizontalAlignment="Left" Height="39" Margin="48,91,0,0" TextWrapping="Wrap" Text="Main Menu" VerticalAlignment="Top" Width="159" FontFamily="Comic Sans MS" FontSize="26.667"/>
         <TextBlock x:ConnectionId='1' x:Name="Option1" HorizontalAlignment="Left" Height="48" Margin="177,179,-21,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="21.333" FontFamily="Comic Sans MS" Text="Assess Development"                        />
-        <TextBlock x:Name="Option2" HorizontalAlignment="Left" Height="48" Margin="177,272,-21,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="21.333" FontFamily="Comic Sans MS" Text="Time Line"/>
-        <TextBlock x:Name="Option3" HorizontalAlignment="Left" Height="48" Margin="177,363,-21,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="21.333" FontFamily="Comic Sans MS" Text="Alerts"/>
+        <TextBlock x:ConnectionId='2' x:Name="Option2" HorizontalAlignment="Left" Height="48" Margin="177,272,-21,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="21.333" FontFamily="Comic Sans MS" Text="Add Notes"                         />
+        <TextBlock x:ConnectionId='3' x:Name="Option3" HorizontalAlignment="Left" Height="48" Margin="177,363,-21,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="21.333" FontFamily="Comic Sans MS" Text="Record"                    />
         <TextBlock x:Name="Option4" HorizontalAlignment="Left" Height="48" Margin="177,452,-21,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="21.333" FontFamily="Comic Sans MS" Text="Nutrition Status"/>
         <TextBlock x:Name="Option5" HorizontalAlignment="Left" Height="48" Margin="177,546,-21,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="21.333" FontFamily="Comic Sans MS" Text="Child Health Record" />
         <Image x:Name="imageOption1" HorizontalAlignment="Left" Height="71" Margin="48,156,0,0" VerticalAlignment="Top" Width="81" Source="Assets/option1.jpg" Stretch="Fill"/>
-        <Image x:Name="imageOption2" HorizontalAlignment="Left" Height="71" Margin="48,249,0,0" VerticalAlignment="Top" Width="81" Source="Assets/option2.png" Stretch="Fill"/>
-        <Image x:Name="imageOption3" HorizontalAlignment="Left" Height="71" Margin="48,340,0,0" VerticalAlignment="Top" Width="81" Source="Assets/option3.jpg" Stretch="Fill"/>
+        <Image x:Name="imageOption2" HorizontalAlignment="Left" Height="68" Margin="48,252,0,0" VerticalAlignment="Top" Width="81" Source="Assets/Notes-icon.png" Stretch="Fill"/>
+        <Image x:Name="imageOption3" HorizontalAlignment="Left" Height="71" Margin="48,340,0,0" VerticalAlignment="Top" Width="81" Source="Assets/mic-icon.png" Stretch="Fill"/>
         <Image x:Name="imageOption4" HorizontalAlignment="Left" Height="71" Margin="48,433,0,0" VerticalAlignment="Top" Width="81" Source="Assets/option4.png" Stretch="Fill" />
         <Image x:Name="imageOption5" HorizontalAlignment="Left" Height="71" Margin="48,523,0,0" VerticalAlignment="Top" Width="81" Source="Assets/option1.jpg" Stretch="Fill"/>
+        <Button x:ConnectionId='4' x:Name="button" Content="Create profile" HorizontalAlignment="Left" Margin="212,82,0,0" VerticalAlignment="Top" Height="57" Width="156"                     />
     </Grid>
 </Page>
 

@@ -13,6 +13,9 @@
     <RootType FullName="Windows.UI.Xaml.Controls.Grid">
       <RootProperty Name="Background" />
       <RootProperty Name="Children" />
+      <RootProperty Name="RowDefinitions" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
       <RootProperty Name="ImageSource" />
@@ -28,6 +31,11 @@
       <RootProperty Name="Text" />
       <RootProperty Name="FontFamily" />
       <RootProperty Name="FontSize" />
+      <RootProperty Name="RenderTransformOrigin" />
+      <RootProperty Name="UseLayoutRounding" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="RenderTransform" />
+      <RootProperty Name="Style" />
       <RootEvent Name="Tapped" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
@@ -55,7 +63,84 @@
     <RootType FullName="Windows.UI.Xaml.DataTemplate">
       <RootProperty Name="Template" />
     </RootType>
-    <RootType FullName="HealthyKidNew.Hearing" />
+    <RootType FullName="HealthyKidNew.hearing1to2years" />
+    <RootType FullName="HealthyKidNew.hearing2to3years" />
+    <RootType FullName="HealthyKidNew.hearing3Months" />
+    <RootType FullName="HealthyKidNew.hearing3to4years" />
+    <RootType FullName="HealthyKidNew.hearing46months" />
+    <RootType FullName="HealthyKidNew.hearing4to5years" />
+    <RootType FullName="HealthyKidNew.Hearing7to1year" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="HealthyKidNew.hearingMain" />
+    <RootType FullName="Windows.UI.Xaml.Controls.MediaElement" />
+    <RootType FullName="HealthyKidNew.Isuru.Recording" />
     <RootType FullName="HealthyKidNew.MainPage" />
+    <RootType FullName="HealthyKidNew.motor1" />
+    <RootType FullName="HealthyKidNew.motor2" />
+    <RootType FullName="HealthyKidNew.motor3" />
+    <RootType FullName="HealthyKidNew.motor4" />
+    <RootType FullName="HealthyKidNew.motor5" />
+    <RootType FullName="HealthyKidNew.motor6" />
+    <RootType FullName="HealthyKidNew.motor7" />
+    <RootType FullName="HealthyKidNew.motorMain" />
+    <RootType FullName="Windows.UI.Xaml.Controls.DatePicker">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.CompositeTransform">
+      <RootProperty Name="Rotation" />
+    </RootType>
+    <RootType FullName="HealthyKidNew.Notes1" />
+    <RootType FullName="HealthyKidNew.social1" />
+    <RootType FullName="HealthyKidNew.social2" />
+    <RootType FullName="HealthyKidNew.social3" />
+    <RootType FullName="HealthyKidNew.social4" />
+    <RootType FullName="HealthyKidNew.social5" />
+    <RootType FullName="HealthyKidNew.social6" />
+    <RootType FullName="HealthyKidNew.social7" />
+    <RootType FullName="HealthyKidNew.social8" />
+    <RootType FullName="HealthyKidNew.socialMain" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.RadioButton">
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="HealthyKidNew.viewProfile" />
+    <RootType FullName="HealthyKidNew.vision1" />
+    <RootType FullName="HealthyKidNew.vision2" />
+    <RootType FullName="HealthyKidNew.vision3" />
+    <RootType FullName="HealthyKidNew.vision4" />
+    <RootType FullName="HealthyKidNew.vision5" />
+    <RootType FullName="HealthyKidNew.vision6" />
+    <RootType FullName="HealthyKidNew.vision7" />
+    <RootType FullName="HealthyKidNew.vision8" />
+    <RootType FullName="HealthyKidNew.visionMain" />
   </Roots.RootTypes>
 </Roots>

@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="HealthyKidNew.Isuru.Recording"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HealthyKidNew.Isuru"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='1' x:Name="Start_button" Content="Start" HorizontalAlignment="Left" Margin="131,183,0,0" VerticalAlignment="Top"                           />
+        <Button x:ConnectionId='2' x:Name="stop_button" Content="Stop" HorizontalAlignment="Left" Margin="131,285,0,0" VerticalAlignment="Top"                          />
+        <Button x:ConnectionId='3' x:Name="play_button" Content="Play" HorizontalAlignment="Left" Margin="131,396,0,0" VerticalAlignment="Top"                          />
+        <MediaElement x:Name="playbackElement1" ></MediaElement>
+    </Grid>
+</Page>
+

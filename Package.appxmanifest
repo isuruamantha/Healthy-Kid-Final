@@ -26,5 +26,7 @@
   </Applications>
   <Capabilities>
     <Capability Name="internetClientServer" />
+    <Capability Name="videosLibrary" />
+    <DeviceCapability Name="microphone" />
   </Capabilities>
 </Package>

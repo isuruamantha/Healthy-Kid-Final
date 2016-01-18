@@ -15,9 +15,9 @@
         <TextBlock x:Name="MainMenuHeading" HorizontalAlignment="Left" Height="76" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="380" Text="Healthy Kid" FontFamily="Comic Sans MS" FontSize="48" />
         <TextBlock x:Name="MainMenu" HorizontalAlignment="Left" Height="39" Margin="80,91,0,0" TextWrapping="Wrap" Text="Assess Development" VerticalAlignment="Top" Width="253" FontFamily="Comic Sans MS" FontSize="26.667"/>
         <Image x:ConnectionId='1' x:Name="imageDev1" HorizontalAlignment="Left" Height="159" Margin="28,165,0,0" VerticalAlignment="Top" Width="150" Source="Assets/hearing.png"                          />
-        <Image x:Name="imageDev2" HorizontalAlignment="Left" Height="159" Margin="216,165,0,0" VerticalAlignment="Top" Width="150" Source="Assets/vision.jpg"/>
-        <Image x:Name="imageDev3" HorizontalAlignment="Left" Height="159" Margin="28,396,0,0" VerticalAlignment="Top" Width="150" Source="Assets/social.jpg"/>
-        <Image x:Name="imageDev4" HorizontalAlignment="Left" Height="159" Margin="216,396,0,0" VerticalAlignment="Top" Width="150" Source="Assets/motor.jpg" Stretch="Fill"/>
+        <Image x:ConnectionId='2' x:Name="imageDev2" HorizontalAlignment="Left" Height="159" Margin="216,165,0,0" VerticalAlignment="Top" Width="150" Source="Assets/vision.jpg"                          />
+        <Image x:ConnectionId='3' x:Name="imageDev3" HorizontalAlignment="Left" Height="159" Margin="28,396,0,0" VerticalAlignment="Top" Width="150" Source="Assets/social.jpg"                          />
+        <Image x:ConnectionId='4' x:Name="imageDev4" HorizontalAlignment="Left" Height="159" Margin="216,396,0,0" VerticalAlignment="Top" Width="150" Source="Assets/motor.jpg" Stretch="Fill"                          />
         <TextBlock x:Name="textDev1" HorizontalAlignment="Left" Height="28" Margin="28,329,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" Text="Hearing" FontSize="26.667"/>
         <TextBlock x:Name="textDev2" HorizontalAlignment="Left" Height="28" Margin="216,329,0,0" TextWrapping="Wrap" Text="Vision" VerticalAlignment="Top" Width="150" FontSize="26.667"/>
         <TextBlock x:Name="textDev3" HorizontalAlignment="Left" Height="28" Margin="28,560,0,0" TextWrapping="Wrap" Text="Social" VerticalAlignment="Top" Width="150" FontSize="26.667"/>

@@ -1,10 +1,13 @@
-﻿using System;
+﻿using HealthyKidNew.Isuru;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.Media.Capture;
+using Windows.Storage;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -12,6 +15,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=391641
 
@@ -22,6 +26,12 @@ namespace HealthyKidNew
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        private MediaCapture _mediaCaptureManager;
+        private StorageFile _recordStorageFile;
+        private bool _recording;
+        private bool _userRequestedRaw;
+        private bool _rawAudioSupported;
+
         public MainPage()
         {
             this.InitializeComponent();
@@ -60,6 +70,11 @@ namespace HealthyKidNew
             Frame.Navigate(typeof(Notes1));
         }
 
-       
+        private void tap_Record(object sender, TappedRoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(Recording));
+        }
+
+
     }
 }
