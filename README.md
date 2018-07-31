@@ -23,3 +23,9 @@ Our main aim is to help parents to identify the early childhood disorders of the
 3)Check lis of each and every disorder
 
 ![check_list](http://s9.postimg.org/d4as8sspb/Page_3.png)
+
+###### Following links contain the Project Proposal and SRS
+
+[Project Proposal](https://github.com/isuruamantha/Healthy-Kid-Final/blob/master/Project%20Proposal.pdf)
+
+[Project SRS](https://github.com/isuruamantha/Healthy-Kid-Final/blob/master/Project%20SRS.docx)
